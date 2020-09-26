@@ -1,0 +1,100 @@
+{
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.folding": false,
+  "editor.fontFamily": "Source Code Variable, monospace",
+  "editor.minimap.enabled": false,
+  "editor.occurrencesHighlight": false,
+  "editor.renderIndentGuides": false,
+  "editor.renderLineHighlight": "none",
+  "editor.renderWhitespace": "trailing",
+  "editor.roundedSelection": false,
+  "editor.rulers": [80],
+  "editor.tabSize": 2,
+  "editor.tokenColorCustomizations": {
+    "[GitHub Light]": {
+      "textMateRules": [
+        {
+          "scope": [
+            "constant.character.escape",
+            "constant.character.escape.backslash.regexp",
+            "constant.other.character-class.range.regexp",
+            "constant.other.character-class.regexp",
+            "constant.other.character-class.set.regexp",
+            "keyword.control.anchor.regexp",
+            "keyword.operator.negation.regexp",
+            "keyword.operator.or.regexp",
+            "keyword.operator.quantifier.regexp",
+            "keyword.other.back-reference.regexp",
+            "markup.underline.link.markdown",
+            "punctuation.definition.group.assertion.regexp",
+            "punctuation.definition.group.regexp",
+            "string.regexp keyword.other",
+            "support.type.property-name.json"
+          ],
+          "settings": { "foreground": "#032f62" }
+        },
+        {
+          "scope": [
+            "markup.fenced_code.block.markdown",
+            "markup.inline.raw.string.markdown"
+          ],
+          "settings": { "foreground": "#6a737d" }
+        },
+        {
+          "scope": [
+            "markup.heading",
+            "markup.heading entity.name",
+            "markup.quote",
+            "meta.embedded.block",
+            "meta.template.expression",
+            "punctuation.definition.list.begin.markdown",
+            "punctuation.definition.string.begin.markdown",
+            "punctuation.definition.string.end.markdown"
+          ],
+          "settings": { "foreground": "#24292e" }
+        },
+        {
+          "scope": ["string.other.link.title.markdown"],
+          "settings": { "fontStyle": "underline", "foreground": "#24292e" }
+        }
+      ]
+    }
+  },
+  "editor.wordWrap": "on",
+  "explorer.openEditors.visible": 0,
+  "extensions.autoUpdate": false,
+  "extensions.showRecommendationsOnlyOnDemand": true,
+  "github.gitAuthentication": false,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "terminal.integrated.lineHeight": 1.1,
+  "window.menuBarVisibility": "toggle",
+  "window.zoomLevel": 0,
+  "workbench.activityBar.visible": false,
+  "workbench.colorCustomizations": {
+    "[GitHub Light]": {
+      "terminal.ansiBlack": "#24292e",
+      "terminal.ansiBlue": "#032f62",
+      "terminal.ansiBrightBlack": "#24292e",
+      "terminal.ansiBrightBlue": "#032f62",
+      "terminal.ansiBrightCyan": "#005cc5",
+      "terminal.ansiBrightGreen": "#22863a",
+      "terminal.ansiBrightMagenta": "#6f42c1",
+      "terminal.ansiBrightRed": "#d73a49",
+      "terminal.ansiBrightWhite": "#ffffff",
+      "terminal.ansiBrightYellow": "#e36209",
+      "terminal.ansiCyan": "#005cc5",
+      "terminal.ansiGreen": "#22863a",
+      "terminal.ansiMagenta": "#6f42c1",
+      "terminal.ansiRed": "#d73a49",
+      "terminal.ansiWhite": "#ffffff",
+      "terminal.ansiYellow": "#e36209",
+      "terminal.background": "#ffffff",
+      "terminal.foreground": "#24292e"
+    }
+  },
+  "workbench.colorTheme": "GitHub Light",
+  "workbench.enableExperiments": false,
+  "workbench.tree.renderIndentGuides": "none"
+}
