@@ -1,4 +1,7 @@
 {
+  "[terraform]": {
+    "editor.defaultFormatter": "hashicorp.terraform",
+  },
   "editor.acceptSuggestionOnEnter": "off",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.folding": false,
