@@ -7,6 +7,8 @@
   "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "editor.acceptSuggestionOnEnter": "off",
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
   "editor.folding": false,
   "editor.fontFamily": "Source Code Variable, monospace",
   "editor.minimap.enabled": false,
