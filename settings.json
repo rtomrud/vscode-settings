@@ -70,7 +70,7 @@
   "editor.wordWrap": "on",
   "explorer.openEditors.visible": 0,
   "extensions.autoUpdate": false,
-  "extensions.showRecommendationsOnlyOnDemand": true,
+  "extensions.ignoreRecommendations": true,
   "github.gitAuthentication": false,
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
